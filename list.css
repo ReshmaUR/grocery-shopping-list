@@ -1,0 +1,47 @@
+#button{
+    width: 590px;
+    height: 100px;
+    font-family: cursive;
+    font-size: 50px; 
+    margin-left: 100px;
+    margin-top: 140px;
+    background-color: lawngreen;
+    border-radius: 40px;
+}
+#heading{
+    margin-top: 80px;
+    font-family: cursive;
+    font-size: 98px;
+    color: indigo;
+}
+#second{
+    font-family: cursive;
+    font-size: 70px;
+    margin-top: 30px;
+}
+table{
+    width: 70%;
+    margin-left: 100px;
+}
+table,td,th{
+    border: 1px solid black;
+    border-spacing: 1px;
+    font-family: cursive;
+    text-align: center;
+}
+th{
+    color: white;
+    background-color: black;   
+}
+td{
+    background-color: pink;
+    color:black;
+}
+#image{
+    margin-left: 100px;
+}
+#text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+

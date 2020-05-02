@@ -1,0 +1,166 @@
+{
+    "product": [
+        {
+           "SerialNo": "1",
+            "Name" : "Salt",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department" : "Kitchen item",
+            "Notes" : "Aashirvad salts"
+        },
+        {
+            "SerialNo": "2",
+            "Name" : "Sugar",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department" : "Kitchen item",
+            "Notes" : "Ration sugar"
+        },
+        {
+            "SerialNo": "3",
+            "Name" : "Jaggery",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department" : "Kitchen item",
+            "Notes" : "Ration jaggery"
+        },
+        {
+            "SerialNo": "4",
+            "Name" : "Tea powder",
+            "Quantity" : "250",
+            "Unit" : "gm",
+            "Department" : "Kitchen item",
+            "Notes" : "Kannan devan"
+        },
+        {
+            "SerialNo": "5",
+            "Name" : "Coconut oil",
+            "Quantity" : "2",
+            "Unit" : "Litre",
+            "Department" : "Kitchen item",
+            "Notes" : "Parachute"
+        },
+        {
+            "SerialNo": "6",
+            "Name" : "Wheat flour",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department" : "Kitchen item",
+            "Notes" : "Aashirvad"
+        },
+        {
+            "SerialNo": "7",
+            "Name" : "Rice flour",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department" : "Kitchen item",
+            "Notes" : "Ration"
+        },
+        {
+            "SerialNo": "8",
+            "Name" : "Rava",
+            "Quantity" : "1",
+            "Unit" : "kg",
+            "Department" : "Kitchen item",
+            "Notes" : "Ration"
+        },
+        {
+            "SerialNo": "9",
+            "Name" : "Milk powder",
+            "Quantity" : "1",
+            "Unit" : "kg",
+            "Department" : "Kitchen item",
+            "Notes" : "Nestle"
+        },
+        {
+            "SerialNo": "10",
+            "Name" : "Rice",
+            "Quantity" : "10",
+            "Unit" : "kg",
+            "Department" : "Kitchen item",
+            "Notes" : "Pavizham"
+        },
+        {
+            "SerialNo": "11",
+            "Name" : "Raw rice",
+            "Quantity" : "3",
+            "Unit" : "kg",
+            "Department" : "Kitchen item",
+            "Notes" : "Ration"
+        },
+        {
+            "SerialNo": "12",
+            "Name" : "Hand wash",
+            "Quantity" : "2",
+            "Unit" : "Bottle",
+            "Department" : "Kitchen item",
+            "Notes" : "Santhoor"
+        },
+        {
+            "SerialNo": "13",
+            "Name" : "Dish wash",
+            "Quantity" : "2",
+            "Unit" : "Bottle",
+            "Department" : "Kitchen item",
+            "Notes" : "Vim gel"
+        },
+        {
+            "SerialNo": "14",
+            "Name" : "Termeric powder",
+            "Quantity" : "250",
+            "Unit" : "gm",
+            "Department" : "Kitchen item",
+            "Notes" : "Kitechen tresures"
+        },
+        {
+            "SerialNo": "15",
+            "Name" : "Chilly powder",
+            "Quantity" : "500",
+            "Unit" : "g",
+            "Department" : "Kitchen item",
+            "Notes" : "Kitechen tresures"
+        },
+        {
+            "SerialNo": "16",
+            "Name" : "Coriander powder",
+            "Quantity" : "250",
+            "Unit" : "g",
+            "Department" : "Kitchen item",
+            "Notes" : "Kitechen tresures"
+        },
+        {
+            "SerialNo": "17",
+            "Name" : "Washing powder",
+            "Quantity" : "1",
+            "Unit" : "kg",
+            "Department" : "Washing item",
+            "Notes" : "Sunlight"
+        },
+        {
+            "SerialNo": "18",
+            "Name" : "Washing soap",
+            "Quantity" : "10",
+            "Unit" : "Number",
+            "Department" : "Washing item",
+            "Notes" : "Dr.Wash"
+        },
+        {
+            "SerialNo": "19",
+            "Name" : "Bathing soap",
+            "Quantity" : "10",
+            "Unit" : "Number",
+            "Department" : "Bathing item",
+            "Notes" : "Medimix"
+        },
+        {
+            "SerialNo": "20",
+            "Name" : "Tooth paste",
+            "Quantity" : "2",
+            "Unit" : "Number",
+            "Department" : "Personal care",
+            "Notes" : "Colgate"
+        }
+
+
+    ]
+}
