@@ -93,7 +93,7 @@
             "Name" : "Hand wash",
             "Quantity" : "2",
             "Unit" : "Bottle",
-            "Department" : "Kitchen item",
+            "Department" : "Personal care",
             "Notes" : "Santhoor"
         },
         {
@@ -106,11 +106,11 @@
         },
         {
             "SerialNo": "14",
-            "Name" : "Termeric powder",
+            "Name" : "Turmeric powder",
             "Quantity" : "250",
             "Unit" : "gm",
             "Department" : "Kitchen item",
-            "Notes" : "Kitechen tresures"
+            "Notes" : "Kitechen treasures"
         },
         {
             "SerialNo": "15",
@@ -118,7 +118,7 @@
             "Quantity" : "500",
             "Unit" : "gm",
             "Department" : "Kitchen item",
-            "Notes" : "Kitechen tresures"
+            "Notes" : "Kitechen treasures"
         },
         {
             "SerialNo": "16",
@@ -126,7 +126,7 @@
             "Quantity" : "250",
             "Unit" : "gm",
             "Department" : "Kitchen item",
-            "Notes" : "Kitechen tresures"
+            "Notes" : "Kitechen treasures"
         },
         {
             "SerialNo": "17",
