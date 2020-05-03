@@ -23,8 +23,8 @@ function shoppinglist(){
             for(var i =0;i<jproduct.length;i++){
                 tr = table.insertRow(-1);
                 for(var j = 0;j<col.length;j++){
-                    var tabCell = tr.insertCell(-1);
-                    tabCell.innerHTML = jproduct[i][col[j]];
+                    var tableCell = tr.insertCell(-1);
+                    tableCell.innerHTML = jproduct[i][col[j]];
                 }
             }
             var container = document.getElementById("matter");

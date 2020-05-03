@@ -116,7 +116,7 @@
             "SerialNo": "15",
             "Name" : "Chilly powder",
             "Quantity" : "500",
-            "Unit" : "g",
+            "Unit" : "gm",
             "Department" : "Kitchen item",
             "Notes" : "Kitechen tresures"
         },
@@ -124,7 +124,7 @@
             "SerialNo": "16",
             "Name" : "Coriander powder",
             "Quantity" : "250",
-            "Unit" : "g",
+            "Unit" : "gm",
             "Department" : "Kitchen item",
             "Notes" : "Kitechen tresures"
         },
